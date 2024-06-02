@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListItems</string>
+    <string name="textView1_value">Name</string>
+    <string name="textView2_value">Price</string>
+</resources>
